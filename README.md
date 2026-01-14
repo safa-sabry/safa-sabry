@@ -9,7 +9,7 @@ I'm Safa, a finance student at Concordia University.
 
 📂 What You'll Find
 - Practice projects in Python and SQL 
-- Finance-related projects 
+- Finance related projects 
 - Excel models and exercises
 <!--
 **safa-sabry/safa-sabry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
