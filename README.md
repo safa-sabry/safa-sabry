@@ -1,9 +1,21 @@
 ## Hi there 👋
 
+I'm Safa, a finance student studying at Concordia University.
+
+💻 I'm coding to...
+- Grow as a problem solver
+- Combine finance with tech
+- learn more about data analysis and analytics
+
+📂 What You'll Find
+- Practice projects in Python and SQL 
+- Finance-related projects 
+- Excel models and exercises
 <!--
 **safa-sabry/safa-sabry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
