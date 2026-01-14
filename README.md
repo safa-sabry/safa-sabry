@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Safa, a finance student studying at Concordia University.
+I'm Safa, a finance student at Concordia University.
 
 💻 I'm coding to...
 - Grow as a problem solver
